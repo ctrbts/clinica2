@@ -1,0 +1,94 @@
+/*---------------------------------*/
+/*General*/
+/*---------------------------------*/
+
+body{
+	font-family: sans-serif,serif,monospace;
+	text-align:center;
+	margin:0%;
+	background-color: white;
+	margin:1%;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:hover{	text-decoration:none;color:blue;}
+
+a:active{	text-decoration:none;color:blue;}
+
+a:visited{	text-decoration:none;color:blue;}
+
+a:link{	text-decoration:none;color:blue;}
+
+img {border:none;color:blue;}
+
+
+/*---------------------------------*/
+/*Especifico*/
+/*---------------------------------*/
+
+
+#logo{
+	width:55%;
+	height:25%;
+}
+
+#menu {
+	width:100%;
+}
+
+
+#pie {
+	height:10%;
+}
+
+#pie img{
+	margin:3%;
+	width:80%;
+	float:center;
+	height:20%;
+}
+#opciones {
+	/*position:relative;*/
+	/*background-image:url('fondos/login.jpg');*/
+	background-repeat:no-repeat;
+	background-position:center; 
+	width:55%;
+	height:70%;
+	margin-left:15%;
+	/*padding-top:12%;*/
+    	
+}
+
+
+#opcion form{
+	margin-left:30%;
+	margin-top:-28%;
+	display:block;
+	text-align:left;
+	font-family: "Georgia",sans-serif,serif,monospace;
+	font-size:150%;
+}
+#opcion{    position:relative;
+			margin-top:12%;
+			margin-left:5%;
+			height:50%;
+}
+#parrafo{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:13px;
+color:#000066;
+}
+/*#cartel{
+	background-image:url('fondos/cartel.jpg');
+	background-repeat:no-repeat;
+	background-position:center; 
+	width:25%;
+	height:10%;
+	left:35%;
+	
+}*/
+
+/*---------------------------------*/

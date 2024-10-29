@@ -1,0 +1,66 @@
+/*---------------------------------*/
+/*General*/
+/*---------------------------------*/
+
+body{
+	font-family: sans-serif,serif,monospace;
+	text-align:center;
+	margin:0%;
+	background-color: white;
+	margin:1%;
+}
+
+a{
+	text-decoration:none;
+	display:block;
+}
+
+a:hover{	text-decoration:none;color:blue;}
+
+a:active{	text-decoration:none;color:blue;}
+
+a:visited{	text-decoration:none;color:blue;}
+
+a:link{	text-decoration:none;color:blue;}
+
+img {border:none;color:blue;}
+
+
+/*---------------------------------*/
+/*Especifico*/
+/*---------------------------------*/
+
+
+#logo{
+	width:55%;
+	height:25%;
+}
+
+#menu {
+	width:100%;
+}
+
+#pie {
+	height:10%;
+}
+
+#pie img{
+	margin:3%;
+	width:80%;
+	float:center;
+	height:30%;
+}
+
+form div {
+	margin:3%;
+	text-align:left;
+}
+
+.cuerpo{
+	width:80%;
+	margin-left:10%;
+}
+
+
+
+/*---------------------------------*/
